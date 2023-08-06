@@ -1,6 +1,6 @@
-##A full stack micro blogging website made using Next.js, TailwindCSS, Clerk Authentication, Webhooks, MongoDB.
+## A full stack micro blogging website made using Next.js, TailwindCSS, Clerk Authentication, Webhooks, MongoDB.
 
-##Features:
+## Features:
 
 1. Next.js 13.4 with Server Side Rendering
 2. MongoDB handling of complex schemas, multiple data population
