@@ -34,6 +34,6 @@ const userSchema = new mongoose.Schema({
   ],
 });
 
-const User = mongoose.model("nextthreadsuser", userSchema);
+const User = mongoose.models.User || mongoose.model("nextthreadsuser", userSchema);
 
 export default User;
